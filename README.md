@@ -1,5 +1,5 @@
 # Random Quote Machine
-This project is a random quote machine I built using React for FreeCodeCamp's Front End Development Libraries Project. It's inspired in this project link
+This project is a random quote machine I built using React for FreeCodeCamp's Front End Development Libraries Project.
 
 ## Dependencies
 1. React 18.0.27
