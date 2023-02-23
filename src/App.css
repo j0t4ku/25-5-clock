@@ -1,0 +1,51 @@
+
+body{
+    color: white;
+    background-color: #333;
+}
+.App{
+    align-items: center;
+    justify-items: center;
+    display: grid;
+}
+.length-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 700px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+
+.time-sets{
+    display: grid;
+    grid-template-columns: 50px 200px 50px;
+    justify-items: center;
+    align-items: center;
+
+}
+
+button{
+    background-color: transparent;
+    color: white;
+    width: 40;
+    height: 40px;
+    border: none;
+    justify-items: start;
+    justify-content: center;
+}
+.arrow{
+    width: 30px;
+    height: 30px;
+
+}
+.actions{
+    display: inline;
+}
+.start_stop, .reset{
+    width: 30px;
+    height: 30px;
+    display: inline;
+    color: white;
+
+}
